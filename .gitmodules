@@ -1,3 +1,6 @@
 [submodule "_parser"]
 	path = _parser
 	url = https://github.com/eq19/parser
+[submodule "_feed"]
+	path = _feed
+	url = https://github.com/eq19/feed
